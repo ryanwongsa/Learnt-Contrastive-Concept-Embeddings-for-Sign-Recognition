@@ -2,7 +2,7 @@
 
 Implementation for Learnt Contrastive Concept Embeddings for Sign Recognition.
 
-[07/04/2024] Created Repo for the paper titled "Learnt Contrastive Concept Embeddings for Sign Recognition", Work in progress with the aim of full release by end of May.
+[07/04/2024] Created Repo for the paper titled "Learnt Contrastive Concept Embeddings for Sign Recognition", Work in progress with the aim of full release by end of May 2024.
 
 [14/04/2024] Added snippet of the head module used for learnt concept embeddings. The contextual head can be added to existing sign recognition models along with the recognition loss (to be added). 
 
